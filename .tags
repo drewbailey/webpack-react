@@ -1,0 +1,15 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	0	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+name	/Users/drewbailey/Projects/js/kanban_app/package.json	/^  "name": "kanban_app",$/;"	function	line:2
+version	/Users/drewbailey/Projects/js/kanban_app/package.json	/^  "version": "1.0.0",$/;"	function	line:3
+description	/Users/drewbailey/Projects/js/kanban_app/package.json	/^  "description": "",$/;"	function	line:4
+main	/Users/drewbailey/Projects/js/kanban_app/package.json	/^  "main": "index.js",$/;"	function	line:5
+scripts	/Users/drewbailey/Projects/js/kanban_app/package.json	/^  "scripts": {$/;"	function	line:6
+test	/Users/drewbailey/Projects/js/kanban_app/package.json	/^    "test": "echo \\"Error: no test specified\\" && exit 1"$/;"	function	line:7
+keywords	/Users/drewbailey/Projects/js/kanban_app/package.json	/^  "keywords": [],$/;"	function	line:9
+author	/Users/drewbailey/Projects/js/kanban_app/package.json	/^  "author": "",$/;"	function	line:10
+license	/Users/drewbailey/Projects/js/kanban_app/package.json	/^  "license": "ISC"$/;"	function	line:11
